@@ -1,2 +1,4 @@
 # notecan-webclient
-NoteCan Webclient
+A serverless notetaking app working with Firebase
+
+This is a project in progres
